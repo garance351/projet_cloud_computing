@@ -11,6 +11,7 @@ Environnement :
 -  Stratégie IaC : Terraform
 -  
 
+outils d'organisation : smartsheet
 
 ## ** Explication de mise en place  ** 
 
